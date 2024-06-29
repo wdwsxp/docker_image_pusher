@@ -1,6 +1,5 @@
 linuxserver/librespeed
 itzg/minecraft-server:java21
-itzg/minecraft-server:java8
 linuxserver/jellyfin
 sanjusss/aliyun-ddns
 p3terx/aria2-pro

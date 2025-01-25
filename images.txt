@@ -5,3 +5,4 @@ sanjusss/aliyun-ddns
 p3terx/aria2-pro
 snowdreamtech/frps
 adguard/adguardhome
+doubebly/doube-itv
